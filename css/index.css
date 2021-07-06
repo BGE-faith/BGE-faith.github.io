@@ -3516,12 +3516,12 @@ blockquote footer cite:before {
   }
 }
 #page-header #site-subtitle {
-  color: var(--light-grey);
+  color: var(--purple);
   font-size: 1.15em;
 }
 @media screen and (min-width: 768px) {
   #page-header #site-subtitle {
-    font-size: 1.72em;
+    font-size: 1.5em;
   }
 }
 #page-header #site_social_icons {
