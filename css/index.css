@@ -3516,7 +3516,7 @@ blockquote footer cite:before {
   }
 }
 #page-header #site-subtitle {
-  color: var(--black);
+  color: var(--light-grey);
   font-size: 1.15em;
 }
 @media screen and (min-width: 768px) {
